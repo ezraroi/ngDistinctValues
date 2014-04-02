@@ -1,6 +1,6 @@
 angular.module('ngDistinctValues', []);
 
-angular.module('ngDistinctValues').directive(function ($timeout) {
+angular.module('ngDistinctValues').directive('ngDistinctValues',function ($timeout) {
 
     function setValidityContaining(values) {
         var result = _.groupBy(values, function (v) { return v.element.val(); });
