@@ -1,1 +1,4 @@
 .idea
+.git
+.bowerrc
+node_modules/
