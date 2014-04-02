@@ -7,6 +7,10 @@
   ],
   "description": "AngularJS Directive to validate a collection dosen't have 2 same items",
   "main": "ng-distinct-values.js",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "angular": ">=1.2.0"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
