@@ -1,6 +1,6 @@
 {
   "name": "ngDistinctValues",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AngularJS Directive to validate a collection dosen't have 2 same items",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
